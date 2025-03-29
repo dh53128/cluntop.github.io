@@ -1,0 +1,16 @@
+{
+ "数组": "<a&&</a>",
+ "链接": "href=\"&&\"",
+ "标题": "title=\"&&\"",
+ "图片": "data-original=\"&&\"",
+ "分类": "电影$20#剧集$21#动漫$22#综艺$23#短剧$24",
+ "副标题": "class=\"item-status text-overflow\">&&<",
+ "分类url": "https://www.7.movie/vodtype/{cateId}.html",
+ "搜索数组": "<a&&</a>",
+ "搜索二次截取": "<ul class=\"ewave-page&&href\"&&\">",
+ "搜索": "https://www.7.movie/vodsearch/-------------.html?wd={wd}",
+ "搜索图片": "class=\"pic\">*data-original=\"&&\"",
+ "搜索链接": "class=\"btn-box\">\"&&\"</",
+ "播放数组": "class=\"episode-box scrollbar\">&&</div>",
+ "线路标题": "class=\"swiper-wrapper\"&&</ul>"
+}

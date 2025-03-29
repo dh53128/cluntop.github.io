@@ -1,0 +1,14 @@
+{
+ "标题": "class=\"v-item-title\">&&</",
+ "副标题": "<span>&&<",
+ "图片": "https+://vres.wbadl.cn/vod1/+data-original=\"/vod1/&&\"",
+ "搜索二次截取": "<div class=\"search-result-list&&pagenation-box fs-margin-section",
+ "搜索数组": "<a&&</a>",
+ "搜索url": "https://www.keke1.app/search?os=pc&k={wd}",
+ "搜索图片": "https+://vres.wbadl.cn/vod1/+data-original=\"/vod1/&&\"",
+ "搜索标题": "class=\"title\">&&</",
+ "搜索链接": "href=\"&&\"",
+ "线路标题": "class=\"source-item-label\">&&</span>",
+ "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$6",
+ "分类url": "https://www.keke1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}.html"
+}
